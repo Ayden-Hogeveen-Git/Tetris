@@ -65,3 +65,6 @@ TODO: Tetris block generation and falling
 TODO: Rigid bodies for each of the pieces
 
 TODO: Line removal
+
+## Misc. Reminders
+- I've called the empty squares 'cells' and the filled squares 'tiles'
